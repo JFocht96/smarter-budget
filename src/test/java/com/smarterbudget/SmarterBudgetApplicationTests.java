@@ -1,4 +1,4 @@
-package com.example.smarterbudget;
+package com.smarterbudget;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,0 +1,5 @@
+com\smarterbudget\model\Book.class
+com\smarterbudget\controller\BookController.class
+com\smarterbudget\SmarterBudgetApplication.class
+com\smarterbudget\exceptions\BookNotFoundException.class
+com\smarterbudget\repository\BookRepository.class
